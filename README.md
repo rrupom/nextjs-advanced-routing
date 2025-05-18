@@ -1,3 +1,3 @@
 ## NextJS Advanced Routing
 
-- Parallel Routes
+- NextJS Route Handlers
