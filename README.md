@@ -1,3 +1,3 @@
 ## NextJS Advanced Routing
 
-- NextJS Route Handlers
+- NextJS Route Handlers With Headers and Cookies
